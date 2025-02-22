@@ -1,16 +1,18 @@
-## Hi there 👋
+# 💫 About Me:
+About Me 🚀<br>Hey there! I’m Avocado, a passionate tech enthusiast, developer, and problem-solver who loves working on innovative projects that blend AI, cybersecurity, and database management. With experience spanning across leading companies like TCS and Palo Alto, I’ve gained hands-on exposure to real-world enterprise solutions and cutting-edge technologies.<br><br>💻 What I Do:<br>🔹 AI & NLP Development – Built LlamaQuery Engine, using LLMs to convert natural language into structured database queries.<br>🔹 Cybersecurity & Cloud Computing – Worked with Palo Alto’s Beacon platform, earning certifications in security and cloud technologies.<br>🔹 Database & Software Development – Led the development of TheraPy, an award-winning hospital management system.<br>🔹 Chatbot Engineering – Created Florence, an AI-driven mental health assistant hosted on Amazon Azure.<br>🔹 Hackathon Champion 🏆 – Innovated solutions in healthcare, AI, and automation, proving my love for building impactful projects.<br><br>⚡ Tech Stack & Skills:<br>💡 Languages & Frameworks: Python, SQL, JavaScript, HTML/CSS<br>💡 Databases: MySQL, MongoDB<br>💡 Cloud & AI Platforms: Amazon Azure, Llama (LLMs & NLP), Azure Cognitive Services<br>💡 Cybersecurity & Networking: IPv6 Transition, Cloud Security, AI-driven Threat Analysis<br><br>🎯 What Drives Me:<br>I’m always looking to push boundaries in AI, cybersecurity, and cloud computing—leveraging tech to create solutions that matter. Whether it’s making hospital databases smarter, improving cybersecurity infrastructure, or enhancing chatbot intelligence, I love solving challenges that impact people’s lives.<br><br>📢 Let’s Connect!<br>I’m open to collaborations, tech discussions, and exciting projects. Feel free to reach out if you want to chat about AI, cybersecurity, cloud, or just geek out over cool tech! 🚀😃
 
-<!--
-**JinAbhinav/JinAbhinav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/abhinav-umesh-257658273/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abhinavu200416@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=JinAbhinav&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=JinAbhinav&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=JinAbhinav&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=JinAbhinav&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
